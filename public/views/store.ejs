@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <%- include('./partials/head.ejs') %>
+        <link rel="stylesheet" href="../css/styles.css">
+        <title>Store</title>
+</head>
+
+<body>
+    <div class="container">
+        <header class="text-center">
+            <h1>Store</h1>
+            <a href="/profile" class="btn btn-primary btn-sm">Perfil</a>
+            <a href="/form" class="btn btn-info btn-sm">Formulario Backend</a>
+            <a class="btn btn-secondary" href="/cart" aria-hidden="true">
+                <i class="fas fa-cart-plus"></i>
+                Shoping Cart
+            </a>
+            <a href="/logout" class="btn btn-light btn-sm">Logout</a>
+        </header>
+        <section>
+            <h2 id="no-products-store" class="bg-light p-4 text-danger">No hay productos listados</h2>
+            <div id="cards-container"></div>
+        </section>
+    </div>
+
+    <script src="https://cdn.socket.io/4.5.3/socket.io.min.js"
+        integrity="sha384-WPFUvHkB1aHA5TDSZi6xtDgkF0wXJcIIxXhC6h8OT8EH3fC5PWro5pWJ1THjcfEi" crossorigin="anonymous">
+        </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+        </script>
+    <script src="../js/socketStore.js"></script>
+</body>
+
+</html>

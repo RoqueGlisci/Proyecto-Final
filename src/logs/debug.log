@@ -1,0 +1,337 @@
+{"level":30,"time":1675689389294,"pid":17436,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689391370,"pid":17436,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689442494,"pid":17436,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689480105,"pid":11160,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675689498273,"pid":11160,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689500830,"pid":11160,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689511669,"pid":11160,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689566584,"pid":12120,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675689586303,"pid":12120,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689591714,"pid":12120,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675689603577,"pid":12120,"hostname":"DESKTOP-E65QVB9","msg":"Usuario no loggeado"}
+{"level":30,"time":1675690473795,"pid":16164,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675690491089,"pid":16164,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675690492903,"pid":16164,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675690495649,"pid":16164,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675690511508,"pid":16164,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675690518777,"pid":16164,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675691037470,"pid":18064,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675691323076,"pid":11688,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675691337935,"pid":9256,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675691441730,"pid":6456,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675691452253,"pid":6456,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675691479245,"pid":6456,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675691565326,"pid":11344,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675691569125,"pid":11344,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675691569138,"pid":11344,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675691594061,"pid":11344,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675691617185,"pid":11344,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675691629101,"pid":4584,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675691785199,"pid":17284,"hostname":"DESKTOP-E65QVB9","msg":"Entregando información del sistema correcto"}
+{"level":30,"time":1675707956128,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675707957563,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675707962979,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675707963571,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675707964715,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675707966817,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675707967023,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675707967667,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675707971627,"pid":672,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723182301,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723183614,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723190959,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675723191557,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723192559,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675723193130,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723246594,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723248248,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675723248900,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723252954,"pid":6384,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723553909,"pid":18612,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723637839,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723638678,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723644852,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675723645436,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723656670,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675723657358,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723658791,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675723659404,"pid":7848,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675723757181,"pid":292,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675728895365,"pid":3388,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675728896695,"pid":3388,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675728903734,"pid":3388,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675728904431,"pid":3388,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675728925013,"pid":3388,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675728925836,"pid":3388,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675728931795,"pid":3388,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730405045,"pid":11820,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730477931,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730479297,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730485245,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730485844,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730487778,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730489277,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730493998,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730494599,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730499018,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730500953,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730501576,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730503742,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730506408,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730507007,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730509310,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730515595,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730516195,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730524581,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730526547,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730530716,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730531362,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730533235,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730538670,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730539301,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730541176,"pid":13148,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730665143,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730667234,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730677234,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730677794,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730679591,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730680203,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730682485,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730683081,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730728854,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730729464,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730731438,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730733068,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730733646,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730744676,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675730746728,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675730747310,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731051956,"pid":14144,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731073990,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731082177,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731083688,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731089803,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731090398,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731093781,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731095209,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731097930,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731098542,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731100730,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731101365,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731102621,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731103244,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731105985,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731111015,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731111623,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731117105,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731117777,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731120440,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675731121033,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675731122595,"pid":11136,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732024077,"pid":14260,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732210270,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732211623,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732217272,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732217872,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732219033,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732220528,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732221942,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732224280,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732224902,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732227155,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732237007,"pid":8404,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732534424,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732536179,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732542182,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732542757,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732543869,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732545328,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732547057,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732548828,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732549483,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732551553,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732554259,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732565330,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732568359,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732576011,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732577213,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732583416,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732584006,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732585957,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732586550,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732588533,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732590043,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732590615,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732593020,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732593660,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732594335,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732596080,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732598284,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732601643,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732603998,"pid":16552,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732810555,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732812701,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732821812,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732822579,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732827332,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732828657,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732829435,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732830265,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732830905,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732833216,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732833552,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732834116,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732836084,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732836770,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732837368,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732839311,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732839860,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732840452,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732842153,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732842983,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732843558,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732845252,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732848653,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732850505,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732851866,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732852953,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732853955,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732854527,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732857055,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732857920,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732858496,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732860504,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732861101,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732861701,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732863514,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732863994,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732864570,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732866353,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732867021,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732867594,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732869475,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732872027,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675732872610,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732892980,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732895241,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732896997,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732898491,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732900142,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675732901962,"pid":3264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773658469,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773658521,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773660014,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773665964,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675773667339,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773668237,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675773670265,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773671378,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773675917,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675773676534,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773685949,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773687774,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675773690102,"pid":19428,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775049581,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775051241,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775056857,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775057449,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775058816,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775060271,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775062972,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775106638,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775111811,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775112409,"pid":10100,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775185645,"pid":4232,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775186600,"pid":4232,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775209606,"pid":11064,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775209617,"pid":11064,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775210423,"pid":11064,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775233366,"pid":10840,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775679233,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Usuario no loggeado"}
+{"level":30,"time":1675775679923,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775681531,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775687250,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775688017,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775689635,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775690261,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775691594,"pid":3520,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775728372,"pid":9440,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775728379,"pid":9440,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675775730996,"pid":9440,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675775731843,"pid":9440,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675776071690,"pid":9440,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675776730001,"pid":6708,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675776764552,"pid":14912,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675780992557,"pid":11276,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675780993953,"pid":11276,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781012847,"pid":11276,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781025363,"pid":11276,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781053111,"pid":14960,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781075711,"pid":14036,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781100334,"pid":1264,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781303151,"pid":13472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781667248,"pid":17420,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781668993,"pid":17420,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781674306,"pid":17420,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675781674925,"pid":17420,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781676119,"pid":17420,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675781677910,"pid":17420,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781679741,"pid":17420,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781806872,"pid":16560,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781809002,"pid":16560,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675781810293,"pid":16560,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781812409,"pid":16560,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675781813205,"pid":16560,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781935373,"pid":9080,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781936596,"pid":9080,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781942990,"pid":9080,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675781943559,"pid":9080,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781944556,"pid":9080,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675781945925,"pid":9080,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675781947621,"pid":9080,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782041368,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782073656,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782074992,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782080836,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782081494,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782082730,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782084247,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782086284,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782089185,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782091672,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782092399,"pid":17472,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782222285,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782222937,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782225265,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782239449,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782240056,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782241234,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782243333,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782244018,"pid":11008,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782287023,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782288514,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782289110,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782291393,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782293479,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782294494,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782296149,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782301855,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782302798,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782306358,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782310839,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782312777,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782314449,"pid":3360,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782352889,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782355110,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782361264,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782361950,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782363409,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782364826,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782365006,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782365612,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782367925,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782368765,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782369400,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782371479,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
+{"level":30,"time":1675782377537,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta accedida"}
+{"level":30,"time":1675782378370,"pid":2188,"hostname":"DESKTOP-E65QVB9","msg":"Ruta no implementada"}
